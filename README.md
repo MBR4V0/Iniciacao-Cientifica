@@ -1,4 +1,4 @@
-# 🔬 [Projeto vinculado: Aplicação de Aprendizado de Máquina na Identificação de Subtipos de Câncer de Mama Utilizando Dados de Expressão Gênica.]
+# 🔬 Projeto vinculado: Aplicação de Aprendizado de Máquina na Identificação de Subtipos de Câncer de Mama Utilizando Dados de Expressão Gênica.
 
 <img width="1280" height="523" alt="image" src="https://github.com/user-attachments/assets/12201cd2-bfa5-4630-b68f-0c338588c78d" />
 
